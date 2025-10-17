@@ -1,6 +1,6 @@
-# Particle Simulation (Java)
+# ParticleFlow (Java)
 
-A Java-based particle simulation where hundreds of particles move according to a randomly generated vector flow field.  
+ParticleFlow is a Java-based particle simulation where hundreds of particles move according to a randomly generated vector flow field.  
 Each frame, particles follow directional forces and wrap around screen edges creating smooth, flowing motion driven entirely by math.
 
 ---
