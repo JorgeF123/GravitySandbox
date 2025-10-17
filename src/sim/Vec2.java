@@ -5,6 +5,7 @@ package sim;
  * Used for position, velocity, acceleration, and forces
  * in the Gravity / Particle Sandbox simulation.
  */
+
 public class Vec2 {
     public float x;
     public float y;
